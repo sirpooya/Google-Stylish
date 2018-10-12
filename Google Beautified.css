@@ -9,9 +9,9 @@
 @license        GPL
 ==/UserStyle== */
 
-@-moz-document regexp("^(https?://)?(zerkalo-|alt.)?google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.*"), regexp("^(https?://)?(zerkalo-|alt.)?encrypted.google.com.*") {
-a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu, a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b
-{color: #636CF3;}
+@-moz-document regexp("^(https?://)?(zerkalo-|alt.)?google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.*"), regexp("^(https?://)?(zerkalo-|alt.)?encrypted.google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.fr.*") {
+    a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu, a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b
+    {color: #636CF3;}
 
 .sbsb_c.gsfs {font-family:IranSans, Helvetica ; line-height:2em;}
 
