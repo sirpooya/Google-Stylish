@@ -35,12 +35,16 @@ div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-co
 div[role=main] g-section-with-header {margin: 10px 0;}
 .vk_c.gws-trips__outer-card {padding:inherit !important;}
 
+g-scrolling-carousel {margin:inherit !important;}
+
+
+/* ======= green address ======= */
+cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-weight:normal;}
+.TbwUpd {display:inline !important;}
 
 
 
 
-/*green address*/
-cite,cite a:link,cite a:visited,.cite,.cite:link{font-family:IranSans, Helvetica ;color:#6cdf90 !important;font-weight:normal;}
 
 #ires .kv {height:25px !important;}
 #res h3,._wI,._wI a{font-family:IranSans, Helvetica ;font-size:20px !important;font-weight:bold;margin-bottom:10px;}
