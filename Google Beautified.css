@@ -1,0 +1,44 @@
+﻿/* ==UserStyle==
+@name           Google Beautified
+@version        1.0.0
+@description    Google Beautified theme for Stylish
+@namespace      http://www.w3.org/1999/xhtml
+@homepageURL    https://github.com/sirpooya/Stylish
+@supportURL     https://github.com/sirpooya/Stylish/issues
+@author         Pooya Kamel
+@license        GPL
+==/UserStyle== */
+
+@-moz-document regexp("^(https?://)?(zerkalo-|alt.)?google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.*"), regexp("^(https?://)?(zerkalo-|alt.)?encrypted.google.com.*") {
+a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu, a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b
+{color: #636CF3;}
+
+.sbsb_c.gsfs {font-family:IranSans, Helvetica ; line-height:2em;}
+
+/*lines between*/
+.g{border-bottom:1px solid rgba(0,0,0,0.07);padding-bottom:20px;}
+
+/*green address*/
+cite,cite a:link,cite a:visited,.cite,.cite:link{font-family:IranSans, Helvetica ;color:#6cdf90 !important;font-weight:normal;}
+
+#ires .kv {height:25px !important;}
+#res h3,._wI,._wI a{font-family:IranSans, Helvetica ;font-size:20px !important;font-weight:bold;margin-bottom:10px;}
+.gsfi,.lst,.st {font-family:IranSans, Helvetica ;line-height:1.5em;}
+
+/*636CF3 1a0dab*/
+#res a {color:#636CF3;}
+#res a:hover {color:royalblue;text-decoration:none !important;} 
+#res a:visited {color:#a363f3;}
+
+/*titles*/
+#res h3.r {overflow:visible;}
+h3 a {font-family:IranSans, Helvetica ;letter-spacing:-.7px;line-height:2em;}
+
+/*description*/
+.st {line-height:2em;}
+
+/*translate this page*/
+._SWb a.fl {font-size:12px;color:#808080 !important;}
+.sbct {line-height:40px;
+padding: 8px 16px;}
+}
