@@ -14,7 +14,15 @@
     {color: #636CF3;}
 
     a.fl,.sbct,.g , #brs , input {font-family:IRANSans !important;}
-    
+ 
+/* ======= Ads & result numbers ======= */
+#taw,.appbar,#bottomads {display:none;}
+.appbar {opacity:0;}
+.TXwUJf {color: #0000004f;}
+
+
+
+
 /*lines between*/
 .g{border-bottom:1px solid rgba(0,0,0,0.07);padding-bottom:20px;}
 
