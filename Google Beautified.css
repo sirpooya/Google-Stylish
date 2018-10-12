@@ -52,11 +52,10 @@ cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-w
 #res a:visited {color:#a363f3;}
 
 
-
-
-/*titles*/
+/* ======= Titles ======= */
 #res h3.r {overflow:visible;}
-h3 a {font-family:IranSans, Helvetica ;letter-spacing:-.7px;line-height:2em;}
+
+
 
 /*description*/
 .st {line-height:2em;}
