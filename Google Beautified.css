@@ -46,12 +46,13 @@ cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-w
 #res h3,._wI,._wI a{/*font-weight:bold;*/font-size:20px !important;margin-bottom:10px;letter-spacing:-.2px;}
 /*.gsfi,.lst,.st {line-height:1.5em;}*/
 
-
-
-/*636CF3 1a0dab*/
+/* ======= Title Link Colors ======= */
 #res a {color:#636CF3;}
 #res a:hover {color:royalblue;text-decoration:none !important;} 
 #res a:visited {color:#a363f3;}
+
+
+
 
 /*titles*/
 #res h3.r {overflow:visible;}
