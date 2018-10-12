@@ -71,3 +71,10 @@ cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-w
 /* ======= Searchbox Items ======= */
 .sbct {line-height:40px;padding: 8px 16px;}
 
+/* ======= Opened Item ======= */
+.exp-outline {opacity:0 !important;}
+.AUiS2 {margin-top: 20px;}
+.AUiS2 .exp-c a {color:royalblue !important;}
+.AUiS2 .exp-c a:before {content:'👉 ';}
+.eJ7tvc {color:#575757; margin-bottom: 11px;}
+
