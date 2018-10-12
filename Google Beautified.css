@@ -12,75 +12,78 @@
 @-moz-document regexp("^(https?://)?(zerkalo-|alt.)?google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.by.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.ru.*"), regexp("^(https?://)?(zerkalo-|alt.)?www.google.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.*"), regexp("^(https?://)?(zerkalo-|alt.)?encrypted.google.com.*"), regexp("^(https?://)?(zerkalo-|alt.)?google.fr.*") {
     a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu, a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b
     {color: #636CF3;}
-
+    
     a.fl,.sbct,.g , #brs , input {font-family:IRANSans !important;}
- 
-/* ======= Ads & result numbers ======= */
-#taw,.appbar,#bottomads {display:none;}
-.appbar {opacity:0;}
-.TXwUJf {color: #0000004f;}
-
-/* ======= Results Width ======= */
-#cnt #center_col, #cnt #foot {width: 670px;}
-
-/* ======= Left Margin ======= */
-#hdtb-msb>.hdtb-mitem:first-child, .ab_tnav_wrp, #cnt #center_col, .mw #center_col {margin-left: 115px;}
-
-/*.sbsb_c.gsfs {font-family:IranSans;line-height:2em;}*/
-
-/* ======= lines between ======= */
-.g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;}
-div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
-.srg .g:last-of-type {margin-bottom: 0px;}
-div[role=main] g-section-with-header {margin: 10px 0;}
-.vk_c.gws-trips__outer-card {padding:inherit !important;}
-
-g-scrolling-carousel {margin:inherit !important;}
-
-
-/* ======= green address ======= */
-cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-weight:normal;}
-.TbwUpd {display:inline !important;}
-
-#ires .kv {height:25px !important;}
-#res h3,._wI,._wI a{/*font-weight:bold;*/font-size:20px !important;margin-bottom:10px;letter-spacing:-.2px;}
-/*.gsfi,.lst,.st {line-height:1.5em;}*/
-
-/* ======= Title Link Colors ======= */
-#res a {color:#636CF3;}
-#res a:hover {color:royalblue;text-decoration:none !important;} 
-#res a:visited {color:#a363f3;}
-
-
-/* ======= Titles ======= */
-#res h3.r {overflow:visible;}
-
-/* ======= Triangle ======= */
-.ab_button,.ab_button:hover {background-color:#00000000;border-radius:50%;}
-.action-menu .mn-dwn-arw {border-color:#6cdf90 transparent;}
-/*h3 a {font-family:Helvetica !important; line-height:2em;}*/
-
-/* ======= description ======= */
-.s {margin-top: 8px;}
-.st {line-height:2em;}
-
-/* ======= translate this page ======= /
-.r a.fl {font-size:12px;color:#808080 !important;}
-*/
-
-/* ======= Searchbox Items ======= */
-.sbct {line-height:40px;padding: 8px 16px;}
-
-/* ======= Opened Item ======= */
-.exp-outline {opacity:0 !important;}
-.AUiS2 {margin-top: 20px;}
-.AUiS2 .exp-c a {color:royalblue !important;}
-.AUiS2 .exp-c a:before {content:'👉 ';}
-.eJ7tvc {color:#575757; margin-bottom: 11px;}
-
-/* ======= Footer ======= */
-.kp-blk {box-shadow:none;}
-.zVvuGd.ulRSHd {padding-top: 25px;}
-.kno-vrt-t.MRfBrb {padding-left: 25px;}
-#brs {margin-top: 25px;}
-#fbar {padding-top: 14px;}
+    /* ======= Ads & result numbers ======= */
+    #taw,.appbar,#bottomads {display:none;}
+    .appbar {opacity:0;}
+    .TXwUJf {color: #0000004f;}
+    
+    /* ======= Results Width ======= */
+    #cnt #center_col, #cnt #foot {width: 670px;}
+    
+    /* ======= Left Margin ======= */
+    #hdtb-msb>.hdtb-mitem:first-child, .ab_tnav_wrp, #cnt #center_col, .mw #center_col {margin-left: 115px;}
+    
+    /*.sbsb_c.gsfs {font-family:IranSans;line-height:2em;}*/
+    
+    /* ======= lines between ======= */
+    .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;}
+    div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
+    .srg .g:last-of-type {margin-bottom: 0px;}
+    div[role=main] g-section-with-header {margin: 10px 0;}
+    .vk_c.gws-trips__outer-card {padding:inherit !important;}
+    
+    
+    g-scrolling-carousel {margin:inherit !important;}
+    
+    
+    /* ======= green address ======= */
+    cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-weight:normal;}
+    .TbwUpd {display:inline !important;}
+    
+    #ires .kv {height:25px !important;}
+    #res h3,._wI,._wI a{/*font-weight:bold;*/font-size:20px !important;margin-bottom:10px;letter-spacing:-.2px;}
+    /*.gsfi,.lst,.st {line-height:1.5em;}*/
+    
+    /* ======= Title Link Colors ======= */
+    #res a {color:#636CF3;}
+    #res a:hover {color:royalblue;text-decoration:none !important;} 
+    #res a:visited {color:#a363f3;}
+    
+    /* ======= Titles ======= */
+    #res h3.r {overflow:visible;}
+    
+    /* ======= Triangle ======= */
+    .ab_button,.ab_button:hover {background-color:#00000000;border-radius:50%;}
+    .action-menu .mn-dwn-arw {border-color:#6cdf90 transparent;}
+    /*h3 a {font-family:Helvetica !important; line-height:2em;}*/
+    
+    /* ======= description ======= */
+    .s {margin-top: 8px;}
+    .st {line-height:2em;}
+    
+    /* ======= translate this page ======= /
+    .r a.fl {font-size:12px;color:#808080 !important;}
+    */
+    
+    /* ======= Searchbox Items ======= */
+    .sbct {line-height:40px;padding: 8px 16px;}
+    
+    
+    /* ======= Opened Item ======= */
+    .exp-outline {opacity:0 !important;}
+    .AUiS2 {margin-top: 20px;}
+    .AUiS2 .exp-c a {color:royalblue !important;}
+    .AUiS2 .exp-c a:before {content:'👉 ';}
+    .eJ7tvc {color:#575757; margin-bottom: 11px;}
+    
+    
+    /* ======= Footer ======= */
+    .kp-blk {box-shadow:none;}
+    .zVvuGd.ulRSHd {padding-top: 25px;}
+    .kno-vrt-t.MRfBrb {padding-left: 25px;}
+    #brs {margin-top: 25px;}
+    #fbar {padding-top: 14px;}
+    
+    }
