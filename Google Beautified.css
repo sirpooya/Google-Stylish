@@ -60,11 +60,12 @@ cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-w
 .action-menu .mn-dwn-arw {border-color:#6cdf90 transparent;}
 /*h3 a {font-family:Helvetica !important; line-height:2em;}*/
 
-
-
-
-/*description*/
+/* ======= description ======= */
+.s {margin-top: 8px;}
 .st {line-height:2em;}
+
+
+
 
 /*translate this page*/
 ._SWb a.fl {font-size:12px;color:#808080 !important;}
