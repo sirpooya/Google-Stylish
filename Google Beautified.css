@@ -67,3 +67,7 @@ cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-w
 /* ======= translate this page ======= /
 .r a.fl {font-size:12px;color:#808080 !important;}
 */
+
+/* ======= Searchbox Items ======= */
+.sbct {line-height:40px;padding: 8px 16px;}
+
