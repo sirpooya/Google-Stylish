@@ -20,6 +20,9 @@
 .appbar {opacity:0;}
 .TXwUJf {color: #0000004f;}
 
+/* ======= Results Width ======= */
+#cnt #center_col, #cnt #foot {width: 670px;}
+
 
 
 
