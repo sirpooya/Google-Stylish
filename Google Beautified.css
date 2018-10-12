@@ -55,6 +55,12 @@ cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-w
 /* ======= Titles ======= */
 #res h3.r {overflow:visible;}
 
+/* ======= Triangle ======= */
+.ab_button,.ab_button:hover {background-color:#00000000;border-radius:50%;}
+.action-menu .mn-dwn-arw {border-color:#6cdf90 transparent;}
+/*h3 a {font-family:Helvetica !important; line-height:2em;}*/
+
+
 
 
 /*description*/
