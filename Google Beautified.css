@@ -23,6 +23,10 @@
 /* ======= Results Width ======= */
 #cnt #center_col, #cnt #foot {width: 670px;}
 
+/* ======= Left Margin ======= */
+#hdtb-msb>.hdtb-mitem:first-child, .ab_tnav_wrp, #cnt #center_col, .mw #center_col {margin-left: 115px;}
+
+
 
 
 
