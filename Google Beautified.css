@@ -13,8 +13,8 @@
     a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu, a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b
     {color: #636CF3;}
 
-.sbsb_c.gsfs {font-family:IranSans, Helvetica ; line-height:2em;}
-
+    a.fl,.sbct,.g , #brs , input {font-family:IRANSans !important;}
+    
 /*lines between*/
 .g{border-bottom:1px solid rgba(0,0,0,0.07);padding-bottom:20px;}
 
