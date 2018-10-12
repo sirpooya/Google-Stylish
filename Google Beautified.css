@@ -26,12 +26,18 @@
 /* ======= Left Margin ======= */
 #hdtb-msb>.hdtb-mitem:first-child, .ab_tnav_wrp, #cnt #center_col, .mw #center_col {margin-left: 115px;}
 
+/*.sbsb_c.gsfs {font-family:IranSans;line-height:2em;}*/
+
+/* ======= lines between ======= */
+.g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;}
+div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
+.srg .g:last-of-type {margin-bottom: 0px;}
+div[role=main] g-section-with-header {margin: 10px 0;}
+.vk_c.gws-trips__outer-card {padding:inherit !important;}
 
 
 
 
-/*lines between*/
-.g{border-bottom:1px solid rgba(0,0,0,0.07);padding-bottom:20px;}
 
 /*green address*/
 cite,cite a:link,cite a:visited,.cite,.cite:link{font-family:IranSans, Helvetica ;color:#6cdf90 !important;font-weight:normal;}
