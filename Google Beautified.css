@@ -34,7 +34,7 @@
     div[role=main] g-section-with-header {margin: 10px 0;}
     .vk_c.gws-trips__outer-card {padding:inherit !important;}
     
-    
+    g-section-with-header[data-hveid=CAMQAA] {padding-top:20px; padding-left:10px;}
     g-scrolling-carousel {margin:inherit !important;}
     
     
