@@ -27,16 +27,16 @@
     
     
     /* ======= lines between ======= */
-    .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;}
+    .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;}
     div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
-    .srg .g:last-of-type {margin-bottom: 0px;}
+    .srg .g:last-of-type {margin-bottom: 0px !important;}
     div[role=main] g-section-with-header {margin: 10px 0;}
     .vk_c.gws-trips__outer-card {padding:inherit !important;}
     
     /* ======= Videos & Photos section ======= */
     g-section-with-header[data-hveid=CAMQAA] {padding-top:20px; padding-left:10px;}
     g-scrolling-carousel {margin:inherit !important;}
-    #imagebox_bigimages {margin-bottom:0px;}
+    #imagebox_bigimages {margin-bottom:0px !important;}
     
     /* ======= green address ======= */
     cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-weight:normal;}
@@ -84,8 +84,7 @@
     .eJ7tvc {color:#575757; margin-bottom: 11px;}
     
     /* ======= Right Pane ======= */
-    .kp-blk {margin-top:25px !important;}
-
+     .kp-blk, #rhs_block {margin-top:30px !important;}
 
     /* ======= Top Map Pane ======= */
     .vk_c {margin: 30px -52px 0px 20px !important; width:632px;}
