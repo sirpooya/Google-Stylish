@@ -16,12 +16,11 @@ Also the colorings are much better and distinguishable for eye.
 
 #### What's New
 
-**Latest Update: October 12, 2018**
+**Latest Update: October 13, 2018.**
 
-- [Fix] Spacings including paddings & margins of many things.
-- [Add] Hover on Items.
-- [Remove] Removed “Ads“ section for header & footer.
-- [Remove] Removed number of results in page.
+- [Fix] Fixed margin paddings for many kinds of searches.
+- [Fix] main section width & margin fixed.
+- [Fix] Fixed 'people also search'
 
 
 
@@ -29,6 +28,7 @@ Also the colorings are much better and distinguishable for eye.
 
 * [Fix] Spacings including paddings & margins of many things.
 * [Add] Hover on Items.
+* [Add] Regular font instead of Bold font.
 * [Remove] Removed “Ads“ section for header & footer.
 * [Remove] Removed number of results in page.
 
@@ -37,4 +37,5 @@ Also the colorings are much better and distinguishable for eye.
 
 
 PLEASE VISIT MY WEBSITE:
+
  👉👉👉 <a href="http://pooya.ml">POOYA.ML</a> 👈👈👈
