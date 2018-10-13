@@ -82,9 +82,11 @@
     .AUiS2 .exp-c a:before {content:'👉 ';}
     .eJ7tvc {color:#575757; margin-bottom: 11px;}
     
+    /* ======= Right Pane ======= */
+    .kp-blk {margin-top:25px !important;}
     
     /* ======= Footer ======= */
-    .kp-blk {box-shadow:none;}
+    /* .kp-blk {box-shadow:none;} */
     .zVvuGd.ulRSHd {padding-top: 25px;}
     .kno-vrt-t.MRfBrb {padding-left: 25px;}
     #brs {margin-top: 25px;}
