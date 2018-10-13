@@ -28,9 +28,10 @@
     
     /* ======= lines between ======= */
     .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;margin-left:-30px;}
+    span.st {width:490px;}
     div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
     .srg .g:last-of-type {margin-bottom: 0px !important;}
-    div[role=main] g-section-with-header {margin: 20px 0 0 -20px !important;}
+    div[role=main] g-section-with-header {margin: 20px 0 0 -30px !important;}
     .vk_c.gws-trips__outer-card {padding:inherit !important;}
     
     /* ======= Videos & Photos section ======= */
@@ -66,7 +67,7 @@
     /* ======= People also searched ======= */
     .g-blk {padding:0 0 20px 0 !important; margin-left:0px !important;}
     .b5sWd {padding:10px 0;}
-    
+
     /* ======= translate this page ======= /
     .r a.fl {font-size:12px;color:#808080 !important;}
     */
@@ -91,7 +92,7 @@
      .kp-blk, #rhs_block {margin-top:30px !important;}
 
     /* ======= Top Map Pane ======= */
-    .vk_c {margin: 30px -52px 0px 20px !important; width:632px;}
+    .vk_c {margin: 20px 0px 0px -15px !important; width:632px;}
     .dbg0pd {padding-bottom:0px; margin-bottom:7px;}
 
     /* ======= Footer ======= */
