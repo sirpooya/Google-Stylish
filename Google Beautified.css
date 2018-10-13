@@ -71,7 +71,7 @@
     .sbsb_c.gsfs {line-height:2em;}
     
     /* ======= Small extra links ======= */   
-    .nrgt {margin-left:0px; font-size:.8em;}
+    .nrgt {margin-left:0px;} .nrgt .st{font-size:.8em;}
     .nrgt a {font-size:.8em !important;} .nrgt h3, .nrgt .s {margin:0px !important;}
 
 
