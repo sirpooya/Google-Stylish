@@ -70,7 +70,9 @@
     /* ======= Searchbox Items ======= */
     .sbct {line-height:40px;padding: 8px 16px;}
     
-    
+    /* ======= Small extra links ======= */   
+    .nrgt {margin-left:0px; zoom:.8;}
+
     /* ======= Opened Item ======= */
     .exp-outline {opacity:0 !important;}
     .AUiS2 {margin-top: 20px;}
