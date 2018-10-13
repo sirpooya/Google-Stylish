@@ -1,4 +1,6 @@
 # Google Beautified Theme
+![alt text](https://raw.githubusercontent.com/sirpooya/Google-Stylish/master/stylish_logo.png)
+
 Stylish Theme for Google.com [Grab it here](https://userstyles.org/styles/163928/google-beautified)
 
 A Beautiful & Minimal theme for Google Search.
