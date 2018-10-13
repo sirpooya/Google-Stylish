@@ -72,6 +72,8 @@
     
     /* ======= Small extra links ======= */   
     .nrgt {margin-left:0px; zoom:.8;}
+    .nrgt a {font-size:.8em !important;} .nrgt h3, .nrgt .s {margin:0px !important;}
+    
 
     /* ======= Opened Item ======= */
     .exp-outline {opacity:0 !important;}
