@@ -20,14 +20,14 @@
     .TXwUJf {color: #0000004f;}
     
     /* ======= Results Width ======= */
-    #cnt #center_col, #cnt #foot {width: 670px;}
+    /* #cnt #center_col, #cnt #foot {width: 670px;} */
     
     /* ======= Left Margin ======= */
-    #hdtb-msb>.hdtb-mitem:first-child, .ab_tnav_wrp, #cnt #center_col, .mw #center_col {margin-left: 115px;}
+    /* #hdtb-msb>.hdtb-mitem:first-child, .ab_tnav_wrp, #cnt #center_col, .mw #center_col {margin-left: 115px;} */
     
     
     /* ======= lines between ======= */
-    .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;}
+    .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;margin-left:-20px;}
     div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
     .srg .g:last-of-type {margin-bottom: 0px !important;}
     div[role=main] g-section-with-header {margin: 10px 0;}
