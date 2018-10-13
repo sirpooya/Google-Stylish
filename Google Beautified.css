@@ -27,16 +27,16 @@
     
     
     /* ======= lines between ======= */
-    .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;margin-left:-20px;}
+    .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;margin-left:-30px;}
     div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
     .srg .g:last-of-type {margin-bottom: 0px !important;}
-    div[role=main] g-section-with-header {margin: 10px 0;}
+    div[role=main] g-section-with-header {margin: 20px 0 0 -20px !important;}
     .vk_c.gws-trips__outer-card {padding:inherit !important;}
     
     /* ======= Videos & Photos section ======= */
     g-section-with-header[data-hveid=CAMQAA] {padding-top:20px; padding-left:10px;}
     g-scrolling-carousel {margin:inherit !important;}
-    #imagebox_bigimages {margin-bottom:0px !important;}
+    #imagebox_bigimages {margin-bottom:0px !important;padding: 0 0 20px 50px;}
     
     /* ======= green address ======= */
     cite,cite a:link,cite a:visited,.cite,.cite:link{color:#6cdf90 !important;font-weight:normal;}
@@ -62,6 +62,10 @@
     /* ======= description ======= */
     .s {margin-top: 8px;}
     .st {line-height:2em;}
+    
+    /* ======= People also searched ======= */
+    .g-blk {padding:0 0 20px 0 !important; margin-left:0px !important;}
+    .b5sWd {padding:10px 0;}
     
     /* ======= translate this page ======= /
     .r a.fl {font-size:12px;color:#808080 !important;}
