@@ -71,9 +71,9 @@
     .sbct {line-height:40px;padding: 8px 16px;}
     
     /* ======= Small extra links ======= */   
-    .nrgt {margin-left:0px; zoom:.8;}
+    .nrgt {margin-left:0px; font-size:.8em;}
     .nrgt a {font-size:.8em !important;} .nrgt h3, .nrgt .s {margin:0px !important;}
-    
+
 
     /* ======= Opened Item ======= */
     .exp-outline {opacity:0 !important;}
