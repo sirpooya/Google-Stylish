@@ -28,7 +28,7 @@
     
     /* ======= lines between ======= */
     .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;margin-left:-30px;}
-    span.st {width:490px;}
+    span.st {width:490px !important;}
     div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
     .srg .g:last-of-type {margin-bottom: 0px !important;}
     div[role=main] g-section-with-header {margin: 20px 0 0 -30px !important;}
