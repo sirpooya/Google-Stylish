@@ -27,7 +27,7 @@
     
     
     /* ======= lines between ======= */
-    .med .g {border-bottom:1px solid rgba(0,0,0,0.07);padding:30px 20px;margin-bottom:0px;margin-left:-30px;}
+    .med .g {/*border-bottom:1px solid rgba(0,0,0,0.07);*/padding:30px 20px;margin-bottom:0px;margin-left:-30px;border-radius:10px;}
     span.st {width:490px !important;}
     div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
     .srg .g:last-of-type {margin-bottom: 0px !important;}
@@ -44,7 +44,7 @@
     .TbwUpd {display:inline !important;}
     
     #ires .kv {height:25px !important;}
-    #res h3,._wI,._wI a{/*font-weight:bold;*/font-size:20px !important;margin-bottom:10px;letter-spacing:-.2px;}
+    #res h3,._wI,._wI a{font-weight:bold;font-size:20px !important;margin-bottom:10px;letter-spacing:-.2px;}
     /*.gsfi,.lst,.st {line-height:1.5em;}*/
     
     /* ======= Title Link Colors ======= */
