@@ -31,6 +31,12 @@
     span.st {width:485px !important;}
     div[role=main] .srg .g:hover {background-color:#f0edff; transition:background-color .2s;}
     
+    div[role=main] .srg .g h3:before  {content:'🌐 ';}
+	div[role=main] .srg .g a:visited h3:before {content:'📌 ' !important;}
+
+    div[role=main] .srg .g:hover h3:before  {content:'👉 ';}
+	/*color: #bbb; .f, .f a:link {font-weight:bold;}     */
+	.P1usbc {color: #bbb;}
     
     .srg .g:last-of-type {margin-bottom: 0px !important;}
     div[role=main] g-section-with-header {margin: 20px 0 0 -30px !important;}
